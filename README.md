@@ -1,15 +1,14 @@
-# INDEPENFLIX
-
+# IndiePenFlix
 ## Overview
 
-**INDEPENFLIX** is a budding video streaming platform dedicated to showcasing independent, amateur, and student-made films. Our goal is to provide a space where emerging filmmakers can share their creative works with a global audience. As a first step in developing this platform, we have created the login screen as part of our Minimum Viable Product (MVP). This document outlines the details of the project, the technologies used, and the next steps in development.
+**IndiePenFlix** is a budding video streaming platform dedicated to showcasing independent, amateur, and student-made films. Our goal is to provide a space where emerging filmmakers can share their creative works with a global audience. As a first step in developing this platform, we have created the login screen as part of our Minimum Viable Product (MVP). This document outlines the details of the project, the technologies used, and the next steps in development.
 
 ## Features
 
 ### Current Features (MVP Stage)
 
 1. **Login Screen:**
-   - A simple and intuitive user interface for users to log in to the INDEPENFLIX platform.
+   - A simple and intuitive user interface for users to log in to the IndiePenFlix platform.
    - Includes input fields for **Username** and **Password** with placeholder text for clarity.
    - Options for social media login via **Google**, **Apple**, and **Facebook**.
    - Secure password input with masked characters.
@@ -31,7 +30,7 @@
 
 ## Technologies Used
 
-- **SwiftUI:** Utilized for building the user interface of the INDEPENFLIX app.
+- **SwiftUI:** Utilized for building the user interface of the IndiePenFlix app.
 - **Swift:** The primary programming language for handling app logic and functionality.
 - **AVKit:** Integrated for video playback functionality in future development stages.
 - **GitHub:** Version control and collaborative development.
@@ -42,11 +41,11 @@ To set up and run this project locally, follow the steps below:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/INDEPENFLIX.git
+   git clone https://github.com/yourusername/IndiePenFlix.git
 
 	2.	Navigate to the project directory:
 
-cd INDEPENFLIX
+cd IndiePenFlix
 
 
 	3.	Open the project in Xcode:
@@ -70,7 +69,7 @@ Login Screen
 
 Future Development
 
-As we continue to develop INDEPENFLIX, the following features are planned:
+As we continue to develop IndiePenFlix, the following features are planned:
 
 	•	Main Content Screen: Users will gain access to the main content library after logging in.
 	•	Content Streaming: Stream short films, independent productions, and student projects directly on the platform.
@@ -95,9 +94,9 @@ Contact
 
 For more information or questions, please contact:
 
-	•	Your Name
-	•	Email: your.email@example.com
-	•	GitHub: yourusername
+	•	Hakan Yorganci
+	•	Email: hakanyorganci@gmail.com
+	•	GitHub: hakanovski
 
 ### Explanation:
 - **Title and Overview:** The project name is prominently displayed, and a brief description gives an immediate understanding of what INDEPENFLIX is about.
