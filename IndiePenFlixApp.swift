@@ -1,5 +1,3 @@
-IndiePenFlixApp.swift
-
 import SwiftUI
 import AVKit
 
